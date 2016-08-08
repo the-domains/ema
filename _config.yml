@@ -6,9 +6,10 @@ color:
   saturation: 0.410757705103606
   rhythmicContrast: 0.0563351062592119
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: EMA
+title: EMA
