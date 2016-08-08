@@ -1,0 +1,14 @@
+layout_spectrum: 0.22626334941014647
+typography_spectrum: 0.5035592359490693
+color:
+  brandStrength: 0.16426768340170383
+  lightness: 0.7619258121121675
+  saturation: 0.410757705103606
+  rhythmicContrast: 0.0563351062592119
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: EMA
