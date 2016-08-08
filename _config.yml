@@ -1,3 +1,4 @@
+layout_spectrum: 0.22626334941014647
 typography_spectrum: 0.5035592359490693
 color:
   brandStrength: 0.16426768340170383
@@ -10,7 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.22626334941014647
 name: EMA
-title: EMA
-description: is on the grid
